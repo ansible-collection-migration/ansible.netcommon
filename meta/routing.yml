@@ -1,0 +1,54 @@
+plugin_routing:
+  modules:
+    net_linkagg:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    net_interface:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    net_lldp_interface:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    net_vlan:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    net_l2_interface:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    net_l3_interface:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    net_vrf:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    net_lldp:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    net_static_route:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    net_system:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    net_logging:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    net_user:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    net_banner:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
